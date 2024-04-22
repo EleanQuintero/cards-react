@@ -1,0 +1,10 @@
+.PersonajesViews{
+    max-width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+.PersonajesViews img{
+    display: block;
+    max-width: 100%;
+}

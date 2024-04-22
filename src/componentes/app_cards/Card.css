@@ -1,0 +1,32 @@
+.Card{
+    font-family: -apple-system, sans-serif;
+    color: black;
+    width: 300px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px #3333;
+    background-color: #0296da;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid #444;
+}
+
+.Card p{
+    font-size: 1.5em;
+}
+
+.Card img{
+    width: 100px;
+    height: 100px;
+    border: 7px solid black;
+    border-radius: 60px;
+    cursor: pointer;
+}
+
+.link{
+    color: black;
+}
+
+.link:hover{
+    color: black;
+}
+
